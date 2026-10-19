@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+backend/uploads/
+backups/
+*.sql.bak
+*.dump
